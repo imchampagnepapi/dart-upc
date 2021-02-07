@@ -1,7 +1,8 @@
 # barcode_convert
 
-A new Flutter project.
+# A simple Flutter Demo Project to convert Barcode UPC-E to UPC-A.
 
+![](test1.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
